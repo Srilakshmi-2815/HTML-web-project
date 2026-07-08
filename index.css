@@ -1,0 +1,24 @@
+p{
+    font-style: arial;
+    color:black;
+}
+li{
+    color:darkslategray;
+    font-style: arial;
+}
+button{
+    color:blue;
+}
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', sans-serif;
+    color:mediumvioletred;
+}
+h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', sans-serif;
+    color:mediumvioletred;
+    
+}
+body{
+    background-color: bisque;
+    
+}
